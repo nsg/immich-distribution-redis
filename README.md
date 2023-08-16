@@ -11,4 +11,9 @@ stage-snaps:
 
 ## Contents
 ```
+.
+├── bin
+│   └── redis-server
+└── meta
+    └── snap.yaml
 ```
